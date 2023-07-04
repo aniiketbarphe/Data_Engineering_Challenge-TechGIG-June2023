@@ -14,10 +14,10 @@
 
 # Summary
 
-**a) Best Score:-** 48.00 out of 100.00
+**a) Best Score:-** **48.00** out of **100.00**
 
 ![290623-Pic1](https://github.com/aniiketbarphe/Data_Engineering_Challenge-TechGIG-June2023/assets/84449238/2a25020a-f413-492b-935e-f12761ed8b83)
 
 **b) Competition Link:-** https://www.techgig.com/challenge/dataengineeringchalleng
 
-**c) Rank Scored:-**  505 out of  registered participants (As on 29 June 2023)
+**c) Rank Scored:-**  **505** out of **2318** registered participants (As on 04 July 2023)
